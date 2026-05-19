@@ -1,0 +1,18 @@
+{
+    "wave": 13,
+    "crystals": 5,
+    "coins": 0,
+    "upgrade_levels": {
+        "damage": 15,
+        "range": 120,
+        "cooldown": 30
+    },
+    "boss_rush_mode": true,
+    "finish_tower_health": 500,
+    "coins_for_shop": 0,
+    "skin_unlocked": [
+        false,
+        false
+    ],
+    "current_skin": 0
+}
